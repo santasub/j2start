@@ -6,8 +6,8 @@ You need the j2start.exe and the j2start.exe.config
 Make your default settings in the j2start.exe.config.
 The config file needs to be in the same directory as the exe.
 
-You are able to set the "JAVAexe" path witch will be used to run your jnlp file by default
-You are also able to set the location where te file will be donloaded to. This directory does not need to exist and will be created.
+You are able to set the "JAVAexe" path which will be used to run your jnlp file by default.
+You are also able to set the location where the file will be downloaded to. This directory does not need to exist and will be created.
 
 
 Sample Configuration File:
