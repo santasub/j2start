@@ -11,6 +11,8 @@ run the tool from the command line with --help to see this help file.
 
 Loads a jnlp file from a remote location and open it with the predefined javaws.exe
 
+
+``` code
 j2start --jnlpurl="http://removeteserver.com:8096/jnlp/jnlpfile.jnlp"
 
   Parameters:
@@ -19,3 +21,4 @@ j2start --jnlpurl="http://removeteserver.com:8096/jnlp/jnlpfile.jnlp"
   --javapath overrides the standart javaws to use for this call
 
 HINT: Configure the standart javaws.exe path in the j2start.exe.config file.
+```
