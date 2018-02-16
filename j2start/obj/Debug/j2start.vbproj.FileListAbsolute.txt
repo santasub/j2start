@@ -1,0 +1,10 @@
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\bin\Debug\j2start.exe.config
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\bin\Debug\j2start.exe
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\bin\Debug\j2start.pdb
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\bin\Debug\j2start.xml
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.vbprojResolveAssemblyReference.cache
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.Resources.resources
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.vbproj.GenerateResource.Cache
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.exe
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.xml
+c:\users\linad\documents\visual studio 2015\Projects\j2start\j2start\obj\Debug\j2start.pdb
