@@ -15,7 +15,7 @@ Sample Configuration File:
 <configuration>
 	<appSettings>
       <add key="JAVAexe" value="C:\Program Files\Java\jre7\bin\javaws.exe" />
-      <add key="jnlpFile" value="C:\temp\bofiles\boclient.jnlp" />
+      <add key="jnlpFile" value="C:\temp\jnlpfiles\sample.jnlp" />
     </appSettings>
     <startup> 
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
