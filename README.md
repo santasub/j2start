@@ -7,16 +7,15 @@ Make your default settings in the j2start.exe.config
 You are able to set the "JAVAexe" path witch will be used to run your jnlp file by default
 You are also able to set the location wehre te file will be donloaded to
 
-Example Configuration:
-<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-	<appSettings>
-      <add key="JAVAexe" value="C:\Program Files\Java\jre7\bin\javaws.exe" />
-      <add key="jnlpFile" value="C:\temp\bofiles\boclient.jnlp" />
-    </appSettings>
-    <startup> 
-        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
-    </startup>
-</configuration>
+run the tool from the command line with --help to see this help file.
 
-run the tool from the command line wuth --help to see this help file.
+Loads a jnlp file from a remote location and open it with the predefined javaws.exe
+
+j2start --jnlpurl="http://removeteserver.com:8096/jnlp/jnlpfile.jnlp"
+
+  Parameters:
+  --help shows this help message
+  --jnlpurl set a jnlp file URL to download
+  --javapath overrides the standart javaws to use for this call
+
+HINT: Configure the standart javaws.exe path in the j2start.exe.config file.
