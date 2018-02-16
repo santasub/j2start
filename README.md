@@ -24,7 +24,7 @@ Sample Configuration File:
 </configuration>
 ```
 Run the tool from the command line with --help to see this help file:
-``` bash
+``` code
 Loads a jnlp file from a remote location and open it with the predefined javaws.exe
 
 j2start --jnlpurl="http://removeteserver.com:8096/jnlp/jnlpfile.jnlp"
